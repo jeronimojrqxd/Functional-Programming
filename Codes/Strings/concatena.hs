@@ -1,0 +1,1 @@
+conc nome1 nome2 = nome1 ++ " " ++ nome2
